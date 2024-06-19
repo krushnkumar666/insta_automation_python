@@ -107,7 +107,7 @@ if __name__ == "__main__":
     bot.follow_user('pawankalyan')
     bot.upload_photo("C:/Users/HP/Pictures/its.jpg", caption="Its me")
     bot.unfollow_user('pawankalyan')
-    bot.send_message("Hello", ['tanu_patil295', 'priya_kz_1511'])
+    bot.send_message("Hello", ['krushnkumarbawalge', 'krishh_17_03'])
 
     followers = bot.get_followers()
     for follower in followers:
